@@ -1,5 +1,5 @@
 nama = "nama : Devin Anandra "
-nim 	= "nim  : 04217042 "
+nim = "nim  : 04217042 "
 umur = 18
 x = (umur + 5)
 
