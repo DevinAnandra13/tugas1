@@ -3,9 +3,9 @@ nim 	= "nim  : 04217042 "
 umur = 18
 x = (umur + 5)
 
-print (nama)
-print (nim)
+print ("nama :" + nama)
+print (nim : " + nim)
 print "umur"
-print (umur)
-print "umur setelah lima tahun"
-print (x)
+print ("umur : " , umur)
+print ("umur setelah lima tahun : " , umur + 5) 
+
